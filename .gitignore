@@ -1,0 +1,7 @@
+output/
+*.weights
+*.jpg
+*.png
+*.log
+.env
+.env.*
